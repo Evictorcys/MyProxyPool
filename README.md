@@ -1,0 +1,2 @@
+# MyProxyPool
+Proxies for clawer
